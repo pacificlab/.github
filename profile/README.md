@@ -1,6 +1,6 @@
 # Welcome to the PACIFIC Lab!
 
-At our lab, we research aspects of Privacy, Applied Cryptography, Intelligence, and Forensics In Chips (PACIFIC). This includes but is not limited to research on implementation security of cryptographic schemes, novel side-channel analysis and fault injection techniques, advancing hardware security primitives such as True Random Number Generators (TRNGs) and Physical Unclonable Functions (PUFs), and applied research of embedded security including micro-architectures and low level firmware.
+At our lab, we research aspects of Privacy, Applied Cryptography, Intelligence, and Forensics In Chips (PACIFIC). This includes but is not limited to research on implementation security and efficiency of cryptographic schemes, novel side-channel analysis and fault injection techniques, advancing hardware security primitives such as True Random Number Generators (TRNGs) and Physical Unclonable Functions (PUFs), and applied research of embedded security including micro-architectures and low level firmware.
 
 ## Maintained Open Source Projects
 
